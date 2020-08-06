@@ -1,0 +1,14 @@
+{
+  "encounters": [
+    { "id": 1, "type": "Appointment" },
+    { "id": 2, "type": "Home Care Visit" },
+    { "id": 3, "type": "Office visit" }
+  ],
+  "patients": [
+    { "id": 4, "body": "some comment", "postId": 1 },
+    { "id": 5, "body": "some comment", "postId": 1 }
+  ],
+  "users": {
+    "name": "typicode"
+  }
+}
